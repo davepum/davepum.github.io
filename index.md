@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+Hi to all Red Sox fans.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
