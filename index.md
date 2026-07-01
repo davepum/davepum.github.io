@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![flowers](assets/images/flower.jpg)
 
 Hi to all Red Sox fans.
 
