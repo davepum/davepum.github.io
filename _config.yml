@@ -1,6 +1,6 @@
 title: TBA
 description: I'm a retired baseball player.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 url: https://davepum.github.io # the base hostname & protocol for your site
