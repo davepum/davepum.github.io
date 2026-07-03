@@ -3,6 +3,7 @@ layout: default
 ---
 <!-- ![flowers](assets/images/Flowers2.png) -->
 <img src="https://davepum.github.io/assets/images/Photo1.jpg" width="1000">
+
 Hi to all Red Sox fans.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
